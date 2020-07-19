@@ -5,7 +5,7 @@
   - Teaching others the material helps solidify past concepts
     - Adaptation: respond to comments in the slack channel when classmates ask for help
   - Reviewing my notes
-    - Adaptation: learn the cornell method and write summaries and follow-up questions after classes
+    - Adaptation: use the cornell method and write summaries and follow-up questions after classes
     - Adaptation: establish an organized files structure in google docs
   - Creating a study space that's free of distractions
       - Adaptation: keep my phone and laptop on 'do not disturb' while I'm in class
@@ -28,4 +28,4 @@ I have a bad habit of prcrastinating and I need to improve my time management sk
 Developing good habits early on will help me later in my career! I'm going to try and establish a routine and set up my workspace prior to starting Module 1.
 
 **6.Describe the vision you currently have for your career after Turing:**  
-I would like to work for a start-up, small business, or nonprofit. A start-up or small business would allow me to be a valuble member of a close-knit team. My background is ecology, or more broadly environmental management, so I would also enjoy working for a nonprofit. Unfortunately, I've acquired a large amount of student loan debt over the years, so I'm looking for a position where my salary will be high enough to start paying off some of my debt. Ideally, I'd like to work for an organization that aligns with my interests and values that compensates me fairly.
+I would like to work for a start-up, small business, or nonprofit. A start-up or small business would allow me to be a valuble member of a close-knit team. My background is ecology, or more broadly environmental management, so I would also enjoy working for a nonprofit. Working with smaller organizations might also allow me to work full-stack and I'd like to be able to work with a number of different languages simply because I think it would be interesting and challenging. I also like working with big datasets and I have a little bit of experience making models, so I think I would also like working for a mid-size company if I could specialize in more of the data analysis side.
