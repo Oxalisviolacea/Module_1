@@ -32,7 +32,13 @@ I would like to work for a start-up, small business, or nonprofit. A start-up or
 
 #Module 1
 ##Week 1
-Strengths = skills + knowledge +talents
-skill: I can... well
-knowledge: I know...
-Talent: I am ...
+- What is something you have learned to do well (list a skill)?  
+I can look at the big picture and break down complex problems
+What is something you know about (list some knowledge/expertise you have)?
+I know statistics
+What is something you have a natural ability to do well (list a talent)?
+I am an experienced leader
+
+1. I'm curious and excitable. I like big ideas and and I'm not detail-oriented. I'm honest and trasparent.
+
+
