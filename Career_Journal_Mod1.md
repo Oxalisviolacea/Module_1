@@ -29,3 +29,10 @@ Developing good habits and efficient workflows will benefit me throughout my car
 
 **6.Describe the vision you currently have for your career after Turing:**  
 I would like to work for a start-up, small business, or nonprofit. A start-up or small business would allow me to be a valuble member of a close-knit team. My background is ecology, or more broadly environmental management, so I would also enjoy working for a nonprofit. Working with smaller organizations might also allow me to work full-stack and I think I would enjoy the challenge. I also like working with big datasets and I have a little bit of experience making models, so I think I would also be content working for a mid-size company if I could specialize in data analysis. I would like to work remotely or for a company in California- hopefully I'll be able to meet some of the alumni working in that area.
+
+#Module 1
+##Week 1
+Strengths = skills + knowledge +talents
+skill: I can... well
+knowledge: I know...
+Talent: I am ...
