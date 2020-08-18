@@ -31,14 +31,28 @@ Developing good habits and efficient workflows will benefit me throughout my car
 I would like to work for a start-up, small business, or nonprofit. A start-up or small business would allow me to be a valuble member of a close-knit team. My background is ecology, or more broadly environmental management, so I would also enjoy working for a nonprofit. Working with smaller organizations might also allow me to work full-stack and I think I would enjoy the challenge. I also like working with big datasets and I have a little bit of experience making models, so I think I would also be content working for a mid-size company if I could specialize in data analysis. I would like to work remotely or for a company in California- hopefully I'll be able to meet some of the alumni working in that area.
 
 #Module 1
-##Week 1
-- What is something you have learned to do well (list a skill)?  
-I can look at the big picture and break down complex problems
-What is something you know about (list some knowledge/expertise you have)?
-I know statistics
-What is something you have a natural ability to do well (list a talent)?
-I am an experienced leader
-
-1. I'm curious and excitable. I like big ideas and and I'm not detail-oriented. I'm honest and trasparent.
-
+##Week 1: Understanding your strengths
+1. Describe one of your strengths
+**- What is something you have learned to do well (list a skill)?**  
+I can look at the big picture and break down complex problems.  
+**- What is something you know about (list some knowledge/expertise you have)?**  
+I know statistics, cartography, and ecology.
+**- What is something you have a natural ability to do well (list a talent)?**
+I am intuitive, curious, and honest.
+2. Read through your Top 4 results from Pairin
+**- In your own words, what do these top 4 qualities tell you about yourself?**
+**- Do they resonate with you? Why/why not?**
+**- How do they relate to the strength you wrote about in Prompt #1?**
+3. Challenges with strengths
+**- What can make it challenging to recognize your strengths? How can you work through those challenges?**
+**- Do you ever see yourself overusing certain strengths? In what circumstances would you want to use them less and amplify other strengths? How could you adjust your approach in those instances?**
+4. Strengths in action
+**- Write 1-2 sentences describing how you like to work (i.e., Do you pre-plan? Do you talk through your ideas first? Do you work better with deadlines? How do you stay organized?** 
+**- How could you describe these working preferences to your project teammates? Your mentor? Your instructors?**
+**- What would you need to be aware of when working with people who have different strengths from you?**
+**- How could your Pairin results help you better understand your everyday working preferences?**
+5. Continued growth
+**- Is there any particular strength you’d like to sharpen while you’re at Turing? Any area you consider a weakness that you’d like to strengthen?88
+**- What are some steps you could take here?**
+**- How could you be aware of progress you’re making?**
 
