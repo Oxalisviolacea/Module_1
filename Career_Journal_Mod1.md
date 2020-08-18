@@ -30,26 +30,42 @@ Developing good habits and efficient workflows will benefit me throughout my car
 **6.Describe the vision you currently have for your career after Turing:**  
 I would like to work for a start-up, small business, or nonprofit. A start-up or small business would allow me to be a valuble member of a close-knit team. My background is ecology, or more broadly environmental management, so I would also enjoy working for a nonprofit. Working with smaller organizations might also allow me to work full-stack and I think I would enjoy the challenge. I also like working with big datasets and I have a little bit of experience making models, so I think I would also be content working for a mid-size company if I could specialize in data analysis. I would like to work remotely or for a company in California- hopefully I'll be able to meet some of the alumni working in that area.
 
-#Module 1
-##Week 1: Understanding your strengths
+## Module 1
+### Week 1: Understanding your strengths  
+
 1. Describe one of your strengths
 **- What is something you have learned to do well (list a skill)?**  
-I can look at the big picture and break down complex problems.  
+I can think at a systems scale and I work well as part of a team.
 **- What is something you know about (list some knowledge/expertise you have)?**  
 I know statistics, cartography, and ecology.
 **- What is something you have a natural ability to do well (list a talent)?**
-I am intuitive, curious, and honest.
+I am curious, teachable, and I'm a good leader.
+
 2. Read through your Top 4 results from Pairin
-**- In your own words, what do these top 4 qualities tell you about yourself?**
+**- In your own words, what do these top 4 qualities tell you about yourself?**  
+  - Imaginative-Inspirational: Influenced by the outside word and attuned to mood, aesthetics, and emotions. Sees the big picture.
+  - Microscope: Sensitive, gentle, and introspective.
+  - Glass window: Authentic and unbothered by internal descrepencies.
+  - Lover of moderation: Gives others the benefit of the doubt and doesn't want to rock the boat.
 **- Do they resonate with you? Why/why not?**
+  - Imaginative-Inspirational: This describes me perfectly!
+  - Microscope: This is accurate.
+  - Glass window: I think this is also accurate.
+  - Lover of moderation: This is true, but I'm also apt to speak my mind.
 **- How do they relate to the strength you wrote about in Prompt #1?**
+I don't think it covered my analytical side or my initiative.
 3. Challenges with strengths
 **- What can make it challenging to recognize your strengths? How can you work through those challenges?**
+It's difficult to see yourself from others perspectives.
 **- Do you ever see yourself overusing certain strengths? In what circumstances would you want to use them less and amplify other strengths? How could you adjust your approach in those instances?**
+Many of my skills aren't applicable to software development, so I could emphasize some of the things ecology and cartography has taught me.
 4. Strengths in action
 **- Write 1-2 sentences describing how you like to work (i.e., Do you pre-plan? Do you talk through your ideas first? Do you work better with deadlines? How do you stay organized?** 
+I work well with deadlines, I like talking through my ideas, and visually brainstorming or making outlines. I use my bullet journal to stay organized, but my digital files aren't organized.
 **- How could you describe these working preferences to your project teammates? Your mentor? Your instructors?**
+I don't know the working preferences for any of these people yet.
 **- What would you need to be aware of when working with people who have different strengths from you?**
+Having different strengths from me is ideal! Give everyone an opportunity to let their strengths shine.
 **- How could your Pairin results help you better understand your everyday working preferences?**
 5. Continued growth
 **- Is there any particular strength you’d like to sharpen while you’re at Turing? Any area you consider a weakness that you’d like to strengthen?88
