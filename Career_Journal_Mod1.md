@@ -47,13 +47,13 @@ I am curious, teachable, and I'm a good leader.
   - Microscope: Sensitive, gentle, and introspective.
   - Glass window: Authentic and unbothered by internal descrepencies.
   - Lover of moderation: Gives others the benefit of the doubt and doesn't want to rock the boat.
-**- Do they resonate with you? Why/why not?**
-  - Imaginative-Inspirational: This describes me perfectly!
-  - Microscope: This is accurate.
-  - Glass window: I think this is also accurate.
-  - Lover of moderation: This is true, but I'm also apt to speak my mind.
-**- How do they relate to the strength you wrote about in Prompt #1?**
-I don't think it covered my analytical side or my initiative.
+**- Do they resonate with you? Why/why not?**  
+  - Imaginative-Inspirational: This describes me perfectly!  
+  - Microscope: This is accurate.  
+  - Glass window: I think this is also accurate.  
+  - Lover of moderation: This is true, but I'm also apt to speak my mind.  
+**- How do they relate to the strength you wrote about in Prompt #1?**  
+It didn't include my analytical side, but it was fairly accurate.  
 3. Challenges with strengths
 **- What can make it challenging to recognize your strengths? How can you work through those challenges?**
 It's difficult to see yourself from others perspectives.
